@@ -141,7 +141,8 @@ The dashboard is built using datasets containing:
 
 ## 📷 Dashboard Preview
 
-*(Add your screenshots here)*
+*<img width="1340" height="696" alt="Screenshot 2026-04-17 145022" src="https://github.com/user-attachments/assets/792c9541-31b0-4cfd-8498-109cda81a144" />
+*
 
 ---
 

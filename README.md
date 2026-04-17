@@ -141,8 +141,10 @@ The dashboard is built using datasets containing:
 
 ## 📷 Dashboard Preview
 
-*<img width="1340" height="696" alt="Screenshot 2026-04-17 145022" src="https://github.com/user-attachments/assets/792c9541-31b0-4cfd-8498-109cda81a144" />
-*
+<img width="1340" height="696" alt="Screenshot 2026-04-17 145022" src="https://github.com/user-attachments/assets/792c9541-31b0-4cfd-8498-109cda81a144" />
+<img width="1349" height="875" alt="Screenshot 2026-04-17 145118" src="https://github.com/user-attachments/assets/b35df979-21ee-4c84-9da4-046c0482e909" />
+<img width="1329" height="874" alt="Screenshot 2026-04-17 145055" src="https://github.com/user-attachments/assets/2003e278-481a-4b28-a91d-e2db1e7c626d" />
+
 
 ---
 
